@@ -1,0 +1,13 @@
+﻿サイズ,単位,乗数,統一単位,加工
+腕周,cm,,cm,Wrist size: 
+腕周,mm,0.1,cm,Wrist size: 
+日差,秒,,秒,Daily rate: 
+日差,分,60,秒,Daily rate: 
+直径,mm,,mm,Diameter: 
+横,mm,,mm,Diameter: 
+直径,cm,10,mm,Diameter: 
+横,cm,10,mm,Length: 
+縦,mm,,mm,Length: 
+縦,cm,10,mm,Length: 
+ラグ幅,mm,,mm,Lug width: 
+ラグ幅,cm,10,mm,Lug width: 

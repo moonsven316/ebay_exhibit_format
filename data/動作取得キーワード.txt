@@ -1,0 +1,13 @@
+This item is working properly.
+Operation has not been confirmed, and operation cannot be guaranteed.
+This item is junk. It does not work properly.
+The battery has been replaced.
+This item has a dead battery.
+This watch has been serviced.
+The calendar works properly.
+The crown winding is normal.
+The second hand of the watch moves every two seconds.
+This watch isn't working.
+This watch is polished.
+This watch has been redone.
+The bezel works fine.

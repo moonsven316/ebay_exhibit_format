@@ -1,0 +1,20 @@
+clock
+yellow
+antique
+rare
+copy
+fake
+final price
+this item is working properly.
+operation has not been confirmed, and operation cannot be guaranteed.
+this item is junk. it does not work properly.
+the battery has been replaced.
+this item has a dead battery.
+this watch has been serviced.
+the calendar works properly.
+the crown winding is normal.
+the second hand of the watch moves every two seconds.
+this watch isn't working.
+this watch is polished.
+this watch has been redone.
+the bezel works fine.
